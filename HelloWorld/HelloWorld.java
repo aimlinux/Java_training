@@ -1,4 +1,4 @@
-package training_java; // ← これが必要な可能性が高いです
+package HelloWorld; // ← これが必要な可能性が高いです
 
 public class HelloWorld {
     public static void main(String[] args) {
