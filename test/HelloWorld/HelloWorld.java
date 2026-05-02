@@ -1,4 +1,4 @@
-package HelloWorld; // ← これが必要な可能性が高いです
+package test.HelloWorld; // ← これが必要な可能性が高いです
 
 public class HelloWorld {
     public static void main(String[] args) {
